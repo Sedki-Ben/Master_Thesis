@@ -1,0 +1,50 @@
+[
+  {
+    "rank": 1,
+    "model": "IDW (p=1)",
+    "median_error_m": 2.907,
+    "type": "IDW"
+  },
+  {
+    "rank": 2,
+    "model": "IDW (p=2)",
+    "median_error_m": 2.931,
+    "type": "IDW"
+  },
+  {
+    "rank": 3,
+    "model": "IDW (p=4)",
+    "median_error_m": 3.008,
+    "type": "IDW"
+  },
+  {
+    "rank": 4,
+    "model": "k-NN (k=1)",
+    "median_error_m": 3.606,
+    "type": "k-NN"
+  },
+  {
+    "rank": 5,
+    "model": "k-NN (k=3)",
+    "median_error_m": 3.606,
+    "type": "k-NN"
+  },
+  {
+    "rank": 6,
+    "model": "k-NN (k=5)",
+    "median_error_m": 3.606,
+    "type": "k-NN"
+  },
+  {
+    "rank": 7,
+    "model": "k-NN (k=9)",
+    "median_error_m": 3.606,
+    "type": "k-NN"
+  },
+  {
+    "rank": 8,
+    "model": "Probabilistic",
+    "median_error_m": 3.606,
+    "type": "Probabilistic"
+  }
+]

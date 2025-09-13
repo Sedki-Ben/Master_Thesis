@@ -1,0 +1,24 @@
+OFDM spectrum
+Mini-Circuits, "The basics of orthogonal frequency-division multiplexing (OFDM)," Mini-Circuits Blog, Feb. 2024. [Online]. Available: https://blog.minicircuits.com/the-basics-of-orthogonal-frequency-division-multiplexing-ofdm/. [Accessed: 04-Sep-2025]
+
+path loss + multipath 
+Yang, Z., Zhou, Z., and Liu, Y. (2013). From RSSI to CSI: Indoor localization via channel response. ACM Computing Surveys, 46(2), Article 25, 1-32. https://doi.org/10.1145/2543581.2543592
+
+fingerprinting
+Z. Yang, Z. Zhou, and Y. Liu, “From RSSI to CSI: Indoor localization via channel response,” ACM Computing Surveys, vol. 46, no. 2, pp. 25:1–25:32, Nov. 2013, doi: 10.1145/2543581.2543592.
+
+wroom 32 image
+AZ-Delivery, "ESP32 NodeMCU Module WLAN WiFi Development Board," AZ-Delivery. [Online]. Available: https://www.az-delivery.de/en/products/esp32-developmentboard. [Accessed: 04-Sep-2025]
+
+Archer A5
+TP-Link, "Archer A5 | AC1200 Wireless Dual Band Router," TP-Link. [Online]. Available: https://www.tp-link.com/de/home-networking/wifi-router/archer-a5/. [Accessed: 04-Sep-2025]
+
+table Haar
+Z.-Y. Lim, L.-Y. Ong, and M.-C. Leow, "Radio frequency-based human activity dataset collected using ESP32 microcontroller in line-of-sight and non-line-of-sight indoor experiment setups," Data in Brief, vol. 57, art. no. 111101, 2024, doi: 10.1016/j.dib.2024.111101.
+
+first CNN image: 
+A. K. Ali, A. M. Abdullah, and S. F. Raheem, "Impact the classes' number on the convolutional neural networks performance for image classification," International Journal of Advanced Science Computing and Engineering, vol. 5, no. 2, pp. 119-128, Aug. 2023, doi: 10.30630/ijasce.5.2.132.
+
+kernel image:
+S. Sankhe, "Convolutional Neural Network," Medium. [Online]. Available: https://siddharthsankhe.medium.com/convolutional-neural-network-dc942931bff8. [Accessed: 04-Sep-2025].
+

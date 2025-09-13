@@ -1,0 +1,21 @@
+{
+  "best_performer": {
+    "model": "IDW (p=1)",
+    "median_error_m": 2.907,
+    "accuracy_1m_pct": 23.8
+  },
+  "algorithm_insights": {
+    "idw_best_power": 1,
+    "knn_performance": "All k values show similar median error (3.606m)",
+    "probabilistic_performance": "Similar to k-NN (3.606m median)",
+    "best_accuracy_1m": 23.8,
+    "best_accuracy_algorithm": "IDW (p=1)"
+  },
+  "experimental_setup": {
+    "problem_type": "Regression",
+    "total_samples": 33642,
+    "reference_points": 34,
+    "feature_dimension": 53,
+    "train_test_split": "80% points for training"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "experiment_type": "Simple Classical Localization Algorithms",
+    "problem_type": "Regression (continuous x,y coordinates)",
+    "dataset_size": 33642,
+    "reference_points": 34,
+    "train_samples": 26706,
+    "test_samples": 6936,
+    "train_points": 27,
+    "test_points": 7,
+    "features": 53,
+    "feature_description": "52 amplitude values + 1 RSSI value",
+    "random_seed": 42,
+    "timestamp": "20250911_161903"
+  },
+  "results": [
+    {
+      "algorithm_type": "k-NN",
+      "model": "k-NN (k=1)",
+      "median_error_m": 3.606,
+      "mean_error_m": 3.898,
+      "std_error_m": 1.423,
+      "accuracy_1m_pct": 2.1,
+      "accuracy_2m_pct": 15.1,
+      "accuracy_3m_pct": 31.7,
+      "description": "k-Nearest Neighbors with k=1"
+    },
+    {
+      "algorithm_type": "k-NN",
+      "model": "k-NN (k=3)",
+      "median_error_m": 3.606,
+      "mean_error_m": 3.869,
+      "std_error_m": 1.415,
+      "accuracy_1m_pct": 1.7,
+      "accuracy_2m_pct": 14.8,
+      "accuracy_3m_pct": 30.8,
+      "description": "k-Nearest Neighbors with k=3"
+    },
+    {
+      "algorithm_type": "k-NN",
+      "model": "k-NN (k=5)",
+      "median_error_m": 3.606,
+      "mean_error_m": 3.843,
+      "std_error_m": 1.408,
+      "accuracy_1m_pct": 1.8,
+      "accuracy_2m_pct": 14.1,
+      "accuracy_3m_pct": 30.2,
+      "description": "k-Nearest Neighbors with k=5"
+    },
+    {
+      "algorithm_type": "k-NN",
+      "model": "k-NN (k=9)",
+      "median_error_m": 3.606,
+      "mean_error_m": 3.82,
+      "std_error_m": 1.395,
+      "accuracy_1m_pct": 2.0,
+      "accuracy_2m_pct": 12.7,
+      "accuracy_3m_pct": 30.2,
+      "description": "k-Nearest Neighbors with k=9"
+    },
+    {
+      "algorithm_type": "IDW",
+      "model": "IDW (p=1)",
+      "median_error_m": 2.907,
+      "mean_error_m": 2.797,
+      "std_error_m": 1.245,
+      "accuracy_1m_pct": 23.8,
+      "accuracy_2m_pct": 23.8,
+      "accuracy_3m_pct": 55.3,
+      "description": "Inverse Distance Weighting with power=1"
+    },
+    {
+      "algorithm_type": "IDW",
+      "model": "IDW (p=2)",
+      "median_error_m": 2.931,
+      "mean_error_m": 2.872,
+      "std_error_m": 1.298,
+      "accuracy_1m_pct": 14.0,
+      "accuracy_2m_pct": 23.8,
+      "accuracy_3m_pct": 55.1,
+      "description": "Inverse Distance Weighting with power=2"
+    },
+    {
+      "algorithm_type": "IDW",
+      "model": "IDW (p=4)",
+      "median_error_m": 3.008,
+      "mean_error_m": 3.112,
+      "std_error_m": 1.456,
+      "accuracy_1m_pct": 0.4,
+      "accuracy_2m_pct": 23.8,
+      "accuracy_3m_pct": 49.6,
+      "description": "Inverse Distance Weighting with power=4"
+    },
+    {
+      "algorithm_type": "Probabilistic",
+      "model": "Probabilistic",
+      "median_error_m": 3.606,
+      "mean_error_m": 3.695,
+      "std_error_m": 1.389,
+      "accuracy_1m_pct": 13.3,
+      "accuracy_2m_pct": 22.4,
+      "accuracy_3m_pct": 36.2,
+      "description": "Gaussian Maximum Likelihood Estimation"
+    }
+  ]
+}
