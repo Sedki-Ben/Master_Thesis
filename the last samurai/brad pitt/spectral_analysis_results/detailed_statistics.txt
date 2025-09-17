@@ -1,0 +1,57 @@
+SPECTRAL ANALYSIS DETAILED STATISTICS
+==================================================
+
+TRAINING POINTS (n=27):
+------------------------------
+RMS Delay Spread (ns):
+  Mean ± Std: 1420.57 ± 59.51
+  Range: 1280.48 - 1498.01
+
+Coherence Bandwidth (MHz):
+  Mean ± Std: 2.97 ± 2.10
+  Range: 1.29 - 7.46
+
+Rician K-factor (dB):
+  Mean ± Std: -14.92 ± 1.05
+  Range: -17.08 - -13.15
+
+RSSI (dBm):
+  Mean ± Std: -56.54 ± 4.21
+  Range: -64.14 - -48.32
+
+VALIDATION POINTS (n=7):
+------------------------------
+RMS Delay Spread (ns):
+  Mean ± Std: 1429.20 ± 52.46
+  Range: 1358.25 - 1497.48
+
+Coherence Bandwidth (MHz):
+  Mean ± Std: 2.76 ± 2.10
+  Range: 1.37 - 7.04
+
+Rician K-factor (dB):
+  Mean ± Std: -14.70 ± 0.88
+  Range: -15.76 - -13.22
+
+RSSI (dBm):
+  Mean ± Std: -57.57 ± 3.36
+  Range: -62.74 - -51.98
+
+TESTING POINTS (n=5):
+------------------------------
+RMS Delay Spread (ns):
+  Mean ± Std: 1427.97 ± 64.90
+  Range: 1321.00 - 1485.75
+
+Coherence Bandwidth (MHz):
+  Mean ± Std: 3.18 ± 2.50
+  Range: 1.53 - 7.55
+
+Rician K-factor (dB):
+  Mean ± Std: -14.48 ± 1.00
+  Range: -15.38 - -13.07
+
+RSSI (dBm):
+  Mean ± Std: -55.56 ± 5.83
+  Range: -61.42 - -46.96
+
